@@ -1,5 +1,10 @@
+# ARCHIVED FOR PRESERVATION
+
+
+
 # Buat unpack dan repack package.rdp di game god eater burst psp
 # God Eater Burst Unpacker and Repacker Tool (USA, EUR, JP)
+
 
 # Tutor:
 https://youtu.be/10mNl7aa-6Q
